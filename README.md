@@ -10,7 +10,7 @@ I'm Yiran, a student who is studing Computer Science at University of Waterloo, 
 
 <br>
 
-<div style="display:flex;align-items:center;justify-content:center" href="https://github.com/Feng-12138/LooSchedule">
+<div style="display:flex;align-items:center;justify-content:center" dir="">
 <a href=“https://github.com/Feng-12138/LooSchedule”  style="margin-right:2.5rem">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Feng-12138&repo=LooSchedule&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
