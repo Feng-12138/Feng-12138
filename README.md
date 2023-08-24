@@ -10,7 +10,7 @@ I'm Yiran, a student who is studing Computer Science at University of Waterloo, 
 
 <br>
 <div style="display:flex;align-items:center;justify-content:center">
-<a href=“https://github.com/Feng-12138/LooSchedule” style="margin:1rem;">
+<a href=“https://github.com/Feng-12138/LooSchedule” style="margin-right:2.5rem">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Feng-12138&repo=LooSchedule&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -24,14 +24,14 @@ I'm Yiran, a student who is studing Computer Science at University of Waterloo, 
 
 ## &#x1f4c8; GitHub Stats
   
-<div>
+<div style="display:flex;align-items:center;justify-content:center">
+<div style=margin-right:2.5rem>
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feng-12138&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
 
-<br>
-
 <div>
  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Feng-12138&show_icons=true&line_height=27&count_private=true&hide_rank=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yiran's GitHub Stats" />
+</div>
 </div>
 
 <br>
