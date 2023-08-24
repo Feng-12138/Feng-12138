@@ -9,14 +9,15 @@ I'm Yiran, a student who is studing Computer Science at University of Waterloo, 
 ## 📌 Pinned Repositories
 
 <br>
-<a href=“https://github.com/Feng-12138/LooSchedule”>
+<div style="display:flex;align-items:center;justify-content:center">
+<a href=“https://github.com/Feng-12138/LooSchedule” style="margin:1rem;">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Feng-12138&repo=LooSchedule&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
 <a href=“https://github.com/joycedaiyt/Me-In-Loo”>
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joycedaiyt&repo=Me-In-Loo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+</div>
 
 <br>
 <br>
